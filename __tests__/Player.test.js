@@ -17,6 +17,7 @@ test('creates a player object' , () => {
     );
 });
 
+
 test('gets players stats as an object', () => {
     const player = new Player('Dave');
 
